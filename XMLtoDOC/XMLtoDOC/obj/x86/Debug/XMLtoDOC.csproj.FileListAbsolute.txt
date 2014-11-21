@@ -1,0 +1,13 @@
+N:\Visual Studio 2010\Projects\XMLtoDOC\XMLtoDOC\bin\Debug\XMLtoDOC.exe.manifest
+N:\Visual Studio 2010\Projects\XMLtoDOC\XMLtoDOC\bin\Debug\XMLtoDOC.application
+N:\Visual Studio 2010\Projects\XMLtoDOC\XMLtoDOC\bin\Debug\XMLtoDOC.exe
+N:\Visual Studio 2010\Projects\XMLtoDOC\XMLtoDOC\bin\Debug\XMLtoDOC.pdb
+N:\Visual Studio 2010\Projects\XMLtoDOC\XMLtoDOC\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\Visual Studio 2010\Projects\XMLtoDOC\XMLtoDOC\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+N:\Visual Studio 2010\Projects\XMLtoDOC\XMLtoDOC\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+N:\Visual Studio 2010\Projects\XMLtoDOC\XMLtoDOC\obj\x86\Debug\GenerateResource.read.1.tlog
+N:\Visual Studio 2010\Projects\XMLtoDOC\XMLtoDOC\obj\x86\Debug\GenerateResource.write.1.tlog
+N:\Visual Studio 2010\Projects\XMLtoDOC\XMLtoDOC\obj\x86\Debug\XMLtoDOC.exe.manifest
+N:\Visual Studio 2010\Projects\XMLtoDOC\XMLtoDOC\obj\x86\Debug\XMLtoDOC.application
+N:\Visual Studio 2010\Projects\XMLtoDOC\XMLtoDOC\obj\x86\Debug\XMLtoDOC.exe
+N:\Visual Studio 2010\Projects\XMLtoDOC\XMLtoDOC\obj\x86\Debug\XMLtoDOC.pdb
